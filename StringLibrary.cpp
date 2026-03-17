@@ -9,6 +9,5 @@ using namespace std;
 int main() {
 	clsString Str;
 	Str.String = "Ahmed Hussein Ahmed";
-	vector<string> vWords = Str.Split();
 	return 0;
 }

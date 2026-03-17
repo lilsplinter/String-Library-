@@ -1,0 +1,11 @@
+﻿  StringLibrary.cpp
+H:\10 - OOP as it Should Be (Concepts)\StringLibrary\clsString.h(99,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'StringLibrary.cpp')
+  
+H:\10 - OOP as it Should Be (Concepts)\StringLibrary\clsString.h(164,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'StringLibrary.cpp')
+  
+H:\10 - OOP as it Should Be (Concepts)\StringLibrary\clsString.h(555,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'StringLibrary.cpp')
+  
+  StringLibrary.vcxproj -> H:\10 - OOP as it Should Be (Concepts)\StringLibrary\x64\Debug\StringLibrary.exe
